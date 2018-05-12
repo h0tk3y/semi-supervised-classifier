@@ -3,7 +3,7 @@ Semi-supervised max-likelihood classifier
 
 A small semi-supervised classifier with max-likelihood self-learning
 
-See `src/main/kotlin/MaxLikelihoodSemiSupervisedClassifier`. 
+See [`src/main/kotlin/MaxLikelihoodSemiSupervisedClassifier`](https://github.com/h0tk3y/semi-supervised-classifier/blob/master/src/main/kotlin/MaxLikelihoodSemiSupervisedClassifier.kt). 
 
 Given a `MaxLikelihoodEstimator` and two lists of 
 `data: List<List<Double>>` (list of vectors of features) and 
@@ -16,7 +16,7 @@ use the restored labels in another classifying algorithm.
 
 ### Demo
 
-The `Demo.kt` generates three uncorrelated gaussian clusters and erases 19 labels
+The [`Demo.kt`](https://github.com/h0tk3y/semi-supervised-classifier/blob/master/src/main/kotlin/Demo.kt) generates three uncorrelated gaussian clusters and erases 19 labels
 out of 20 points. It then runs the algorithm to restore the labels and visualizes 
 them.
 

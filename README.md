@@ -20,7 +20,7 @@ The `Demo.kt` generates three uncorrelated gaussian clusters and erases 19 label
 out of 20 points. It then runs the algorithm to restore the labels and visualizes 
 them.
 
-TODO: add a picture
+![image](https://user-images.githubusercontent.com/1888526/39957966-6745d142-5604-11e8-85b7-2643663a8d0f.png)
 
 The points with known labels are filled. The shapes denote the original classes, 
 and the color denotes the restored labels.

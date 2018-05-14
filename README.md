@@ -24,3 +24,7 @@ them.
 
 The points with known labels are filled. The shapes denote the original classes, 
 and the color denotes the restored labels.
+
+Another run with only one point-per-class given with a known label (labeled on the chart as 1, 2, and 3):
+
+![image](https://user-images.githubusercontent.com/1888526/39973241-4d19ac1c-5726-11e8-9196-6c97d1001b44.png)

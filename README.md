@@ -20,10 +20,10 @@ The [`Demo.kt`](https://github.com/h0tk3y/semi-supervised-classifier/blob/master
 out of 20 points. It then runs the algorithm to restore the labels and visualizes 
 them.
 
-![image](https://user-images.githubusercontent.com/1888526/39957966-6745d142-5604-11e8-85b7-2643663a8d0f.png)
-
 The points with known labels are filled. The shapes denote the original classes, 
 and the color denotes the restored labels.
+
+![image](https://user-images.githubusercontent.com/1888526/39957966-6745d142-5604-11e8-85b7-2643663a8d0f.png)
 
 Another run with only one point-per-class given with a known label (labeled on the chart as 1, 2, and 3):
 

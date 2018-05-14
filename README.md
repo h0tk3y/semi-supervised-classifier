@@ -28,3 +28,7 @@ and the color denotes the restored labels.
 Another run with only one point-per-class given with a known label (labeled on the chart as 1, 2, and 3):
 
 ![image](https://user-images.githubusercontent.com/1888526/39973241-4d19ac1c-5726-11e8-9196-6c97d1001b44.png)
+
+Labels learned per iteration in the previous example:
+
+![image](https://user-images.githubusercontent.com/1888526/39973384-0e57aea0-5728-11e8-8f0b-87f96ce434f4.png)
